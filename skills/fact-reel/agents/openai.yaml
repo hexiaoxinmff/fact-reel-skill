@@ -1,0 +1,3 @@
+display_name: FactReel — 中文知识短视频
+short_description: 先查证、后写稿：把选题做成有出处的 30–45 秒竖屏知识视频（配音实测计时 + 烧录字幕 + 发布包）
+default_prompt: 用 fact-reel 做一条知识短视频，选题是……
